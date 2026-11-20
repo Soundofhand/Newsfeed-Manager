@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\bin\Debug\Newsfeed Manager.exe.config
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\bin\Debug\Newsfeed Manager.exe
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\bin\Debug\Newsfeed Manager.pdb
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed Manager.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed_Manager.beitrag_usercontrol.resources
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed_Manager.base_window.resources
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed_Manager.Properties.Resources.resources
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed_Manager.subkategorie_control.resources
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed Manager.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed Manager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed Manager.exe
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed Manager.pdb
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\obj\Debug\Newsfeed.F80B7D31.Up2Date
+C:\Users\Admin\source\repos\Newsfeed Manager\Newsfeed Manager\bin\Debug\MySql.Data.dll

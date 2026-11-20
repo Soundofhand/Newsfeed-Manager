@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Newsfeed_Manager.datasources
+{
+    public interface datenInterface
+    {
+        void schreibeDaten(List<wrpNewsfeed> newsliste);
+
+        List<wrpNewsfeed> leseDaten();
+
+
+        }
+}
